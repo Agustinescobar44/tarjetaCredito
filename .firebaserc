@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tarjeta-credito-102c0": {
+      "hosting": {
+        "tarjetaCredito": [
+          "tarjeta-credito-102c0"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tarjeta-credito-102c0"
+  }
+}

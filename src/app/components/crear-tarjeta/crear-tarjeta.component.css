@@ -1,0 +1,17 @@
+.success{
+    color: #84cc16;
+    border-color: #84cc16 ;
+}
+.danger{
+    color: #dc3545;
+    border-color: #dc3545;
+}
+.spinner-border{
+    height: 1.5rem;
+    width: 1.5rem;
+}
+.fa-times{
+    color: red;
+    cursor: pointer;
+    font-size: 30px;
+}
